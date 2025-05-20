@@ -1,0 +1,2 @@
+- apakah aman jika endpoint get all tidak mengecek status user id atau token. endpoint ini tidak terlindungi
+- apakah perlu menambahkan column deleted_by

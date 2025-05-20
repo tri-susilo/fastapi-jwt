@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.venv/
+ENV/
+env.bak/
+env/
+
+# VS Code files
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy & other lint tools
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# SQLite & other local DB
+*.sqlite3
+*.db
+
+# Alembic migrations (optional)
+migrations/
+
+# Logs
+*.log
+
+# Token or credentials
+*.pem
+*.key
